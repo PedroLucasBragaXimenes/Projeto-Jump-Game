@@ -15,12 +15,5 @@ Jogo simples feito com **HTML, CSS e JavaScript** onde o personagem (Mário) cor
 
 ---
 
+🔗 Acesse o projeto aqui:
 
-
-
-
-
-
-
-
-Se quiser que eu gere um `README.md` pronto, ou que eu crie o `script.js` corrigido com base no que você tinha, já deixo pronto aqui — me fala qual versão do código quer que eu use (ou cola o conteúdo do seu `script.js`) que eu adapto direto.
